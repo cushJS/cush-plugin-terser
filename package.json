@@ -1,0 +1,10 @@
+{
+  "name": "cush-plugin-terser",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "JS minifier for ES2015",
+  "repository": "cushJS/cush-plugin-terser",
+  "peerDependencies": {
+    "cush": "^0.2.0"
+  }
+}
